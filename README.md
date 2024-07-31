@@ -1,1 +1,1 @@
-# odin-landing-page
+Hi! This is a basic landing page template I made using the skills taught to me in the Odin Project's Foundation Course. 
