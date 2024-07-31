@@ -217,3 +217,18 @@ a, .small-content-left{
     border-radius: 8px;
     padding: 10px 20px;
 }
+
+/* do not edit this footer */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1F2937;
+    color: white;
+  }
+  
